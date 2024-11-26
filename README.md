@@ -1,7 +1,6 @@
-<<<<<<< HEAD
 # CLEAN: Enzyme Function Prediction using Contrastive Learning
 
-  
+Edited testing to include an inference pipeline to functionally classify unannotated protein sequences downloaded from Uniprot
 
 [![DOI](https://zenodo.org/badge/525112894.svg)](https://zenodo.org/badge/latestdoi/525112894)
 
@@ -476,6 +475,3 @@ To train an ensumlbe of GMM:
 python gmm.py
 
 ```
-=======
-# clean_pipeline
->>>>>>> 5d51d81328e39345bf9d7f866feb357fd6b3e8d8
