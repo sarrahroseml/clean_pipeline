@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CLEAN: Enzyme Function Prediction using Contrastive Learning
 
   
@@ -475,3 +476,6 @@ To train an ensumlbe of GMM:
 python gmm.py
 
 ```
+=======
+# clean_pipeline
+>>>>>>> 5d51d81328e39345bf9d7f866feb357fd6b3e8d8
